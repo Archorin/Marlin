@@ -1,3 +1,6 @@
+Configurations edited with the following of this guide :
+https://matheusmbar.com/3d%20printer/2019/08/18/SKR_E3_DIP_firmware.html
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
